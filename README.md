@@ -1,4 +1,4 @@
-### Javascript Task list
+# Javascript Task list
 
 ## Simple project to build a task list white the functionalities
 
